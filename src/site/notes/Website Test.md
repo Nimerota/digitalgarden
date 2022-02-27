@@ -11,4 +11,5 @@ This is just a test page.
 | 1       | Intro       |
 | 2       | PKM         | 
 
-[[Knowledge]]
+[[Course Planning]]
+
